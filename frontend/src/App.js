@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-const api_base = "https://merntodoccl.herokuapp.com/";
+const api_base = "https://merntodoccl.herokuapp.com";
 
 function App() {
   const [todos, setTodos] = useState([]);
